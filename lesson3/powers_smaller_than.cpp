@@ -16,8 +16,7 @@ int main(){
     
     int pot = 1;
     
-    while(pot < n){ // dopóki potęga jest mniejsza od n, to robimy:
-        
+    while(pot < n){ // until the power is smaller than n, then we execute the loop:
         cout<<pot<<"\n";
         pot *= 2;
     }
