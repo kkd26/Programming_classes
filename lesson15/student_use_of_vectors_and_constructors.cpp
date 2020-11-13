@@ -25,7 +25,6 @@ struct Student{ // struktura - structure
     string name; // pola w strukturze - fields
     string surname;
     double avg = 0;
-    // int grades[n];
     vector<int> grades;
     
     Student(){
@@ -43,9 +42,6 @@ struct Student{ // struktura - structure
 
 
 int main() {
-    //string a, b;
-    //cin>>a>>b;
-    //Student piotr(a, b); // zmienna o nazwie "piotr" typu Student
     Student piotr;
     
     int n;
@@ -68,6 +64,7 @@ int main() {
     
     return 0;
 }
+
 /*
 jan
 nowak
