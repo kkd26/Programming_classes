@@ -10,7 +10,7 @@ double Abs(double x){ // x = -10
         x = -x; //x = 0 - x; //x -= 2*x; // x *= -1;
     }
     
-    return x;    
+    return x;
 }
 
 

@@ -15,7 +15,7 @@ void addNum(int a, vector<int> &w) { // passing vector by reference (without thi
     for (int i = 0 ; n>i ; i++){
         if(a == w[i]) isInside = true;
     }
-    if (isInside == false) w.push_back(a); // if a wasn't in the vector, then we want to add it
+    if (isInside == false) w.push_back(a); // if a wasn't in the vector, then we want to add it "a" 
 }
 
 void inc(int x){ // pass by value
