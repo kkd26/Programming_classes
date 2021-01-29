@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: blue;
+}
+
+.className{
+    color: red;
+}
+
+#id{
+    color: green;
+}
+
+.className{
+    color: violet;
+    font-family:verdana;
+}

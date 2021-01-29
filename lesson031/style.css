@@ -1,0 +1,40 @@
+h1{
+    text-decoration: underline;
+}
+
+div {
+    text-align: right;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#drugi{
+    color: tomato;
+}
+
+.green{
+    color: green;
+}
+
+div.center{
+    text-align: center;
+}
+
+span.center{
+    text-transform: uppercase;
+}
+
+div p{
+    color: orange;
+}
+
+div > p{
+    color: rebeccapurple;
+}
+
+span > div div.red{
+    color: red;
+    background-color: blue;
+}
+
+
