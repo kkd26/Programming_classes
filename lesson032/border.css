@@ -1,0 +1,50 @@
+* {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+}
+
+p {
+  border-width: 2px;
+  padding: 16px;
+  margin: 10px;
+}
+
+p.test {
+  border-width: 5px;
+  border-style: inset;
+  border-color: black;
+  border-top-color: red;
+  border-right-style: dotted;
+  margin: 10px;
+}
+p.test1 {
+  border-style: solid;
+  border-color: black;
+}
+p.test2 {
+  border-bottom-style: solid;
+  border-color: red;
+}
+
+p.test3 {
+  border-color: grey;
+  border-style: solid;
+  border-radius: 10px;
+}
+p.test4 {
+  border-color: blue;
+  border-left-style: solid;
+  background-color: lightblue;
+  border-width: 10px;
+}
+
+/*
+dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden
+*/
