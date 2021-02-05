@@ -1,0 +1,23 @@
+p {
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+p.bolder {
+  background-color: blue;
+  font-weight: bolder;
+}
+
+.long {
+  display: flex;
+  font-weight: unset; /*unset, bold, bolder, 100, 400, 700*/
+  height: 250px;
+  text-align: justify; /*left, right, center, justify*/
+  display: flex;
+  align-items: flex-end; /*center, flex-end*/
+}
+
+p.decoration {
+  padding: 10px;
+}
