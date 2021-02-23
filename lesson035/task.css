@@ -1,0 +1,23 @@
+body {
+  padding-top: 20px;
+}
+
+h1 {
+  background-color: tomato;
+  text-align: center;
+  color: #00ffff;
+  text-transform: uppercase;
+  text-decoration: underline overline;
+  padding: 0.7em;
+}
+p {
+  background-color: greenyellow;
+  font-size: 2em;
+  font-family: "Courier New", consolas;
+  color: navy;
+  text-align: justify;
+  text-transform: capitalize;
+  text-indent: 1in;
+  word-spacing: -5px;
+  line-height: 1.5em;
+}
