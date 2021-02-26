@@ -2,21 +2,27 @@ body {
   padding-top: 20px;
 }
 
-h1 {
+h1{
   background-color: tomato;
   text-align: center;
-  color: #00ffff;
+  color: #00FFFF;
   text-transform: uppercase;
   text-decoration: underline overline;
-  padding: 0.7em;
+  padding: 5px;  
+  text-shadow: 5px 5px green ;
+  font-family: sans-serif;
+  letter-spacing: 0.5em;
+  word-spacing: 1cm;
+  font-weight: bold;
+  line-height: 2em;
 }
-p {
+p{
   background-color: greenyellow;
   font-size: 2em;
   font-family: "Courier New", consolas;
   color: navy;
   text-align: justify;
-  text-transform: capitalize;
+  text-transform: capitalize ;
   text-indent: 1in;
   word-spacing: -5px;
   line-height: 1.5em;
