@@ -1,0 +1,29 @@
+{
+  "action": "turn-on",
+  "target": 482978917
+}
+
+
+Three possible app types:
+1. ios
+2. android
+3. web/native (preferable - works on any device with web connection)
+
+
+app (phone/computer)   --->    RaspPi   ---->   Smart Dom
+
+
+port forwarding - enables visibility of your raspberry pi globally
+
+
+1. RaspPi connect to internet (static ip address)
+2. SSH - shh keys (auth)
+3. create server (express.js [javascript], flask[python], bash)
+4. API 
+5. Create app on windows (PowerShell, C++, Java) - background process listening on host with port number
+
+...
+
+10. Voice to speech
+11. Execute commends
+12. Voice recognition
